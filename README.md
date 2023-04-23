@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neerajjangid12
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning android
+- 👀 I’m interested in Web development and virtual reality
+- 🌱 I’m currently learning AR-VR 
 - 📫 contact email-neerajjangid12345@gmail.com
 
 <!---
